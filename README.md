@@ -1,2 +1,2 @@
 # Project_Standarts
-Repository for creating a Terminal minigame with 4 standarts
+Professor, coloquei tudo na branch master
